@@ -1,10 +1,10 @@
 # zaprET-DiSCOrd
 
-Если Discord висит на Connecting, zaprET-DiSCOrd поднимает голосовые и видео без стороннего туннеля.
+Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
 
 Если Discord висит на Connecting, zaprET-DiSCOrd поднимает голосовые и видео без стороннего туннеля. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/TrackBakerPropagate/zaprET-DiSCOrd/releases/latest
-Код: https://github.com/TrackBakerPropagate/zaprET-DiSCOrd
+Релиз: https://github.com/trackbakerpropagate/zaprET-DiSCOrd/releases/latest
+Код: https://github.com/trackbakerpropagate/zaprET-DiSCOrd
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/TrackBakerPropagate/zaprET-DiSCOrd
+Страница: https://github.com/trackbakerpropagate/zaprET-DiSCOrd
